@@ -3,5 +3,5 @@ moviepy
 requests
 streamlit
 numpy
-PIL
+pillow
 io
